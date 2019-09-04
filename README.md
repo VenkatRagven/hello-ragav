@@ -1,2 +1,3 @@
 # hello-ragav
-simple learning of github
+I'm an user interface developer who play's with restful API's to give interactive and responsive web pages.
+
